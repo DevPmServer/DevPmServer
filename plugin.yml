@@ -1,1 +1,6 @@
-
+---
+name: DevPmServer
+author: PmServer
+version: 1.3-Alpha
+api: [1.13.0]
+main: DevPmServer\Main
